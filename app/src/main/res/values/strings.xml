@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zekony Music</string>
+
+    <string name="amplification">Amplification</string>
+    <string name="animated_color">animated color</string>
+    <string name="animated_number">Animated number</string>
+    <string name="icon">icon</string>
+</resources>
